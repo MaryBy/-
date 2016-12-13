@@ -1,0 +1,18 @@
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\bin\Debug\rvip.exe.config
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\bin\Debug\rvip.exe
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\bin\Debug\rvip.pdb
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\obj\Debug\rvip.exe
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\obj\Debug\rvip.pdb
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\obj\Debug\rvip.csprojResolveAssemblyReference.cache
+D:\4 курс\Романов РВиП\rvip\rvip\bin\Debug\rvip.exe.config
+D:\4 курс\Романов РВиП\rvip\rvip\obj\Debug\rvip.exe
+D:\4 курс\Романов РВиП\rvip\rvip\obj\Debug\rvip.pdb
+D:\4 курс\Романов РВиП\rvip\rvip\bin\Debug\rvip.exe
+D:\4 курс\Романов РВиП\rvip\rvip\bin\Debug\rvip.pdb
+D:\4 курс\Романов РВиП\rvip\rvip\obj\Debug\rvip.csprojResolveAssemblyReference.cache
+F:\rvip\rvip\bin\Debug\rvip.exe.config
+F:\rvip\rvip\obj\Debug\rvip.exe
+F:\rvip\rvip\obj\Debug\rvip.pdb
+F:\rvip\rvip\bin\Debug\rvip.exe
+F:\rvip\rvip\bin\Debug\rvip.pdb
+F:\rvip\rvip\obj\Debug\rvip.csprojResolveAssemblyReference.cache
